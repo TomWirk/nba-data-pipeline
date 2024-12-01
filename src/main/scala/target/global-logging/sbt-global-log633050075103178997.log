@@ -1,0 +1,66 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(5531f604-6d7d-4baa-bef0-bd1a50c8d77b), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 2 Scala sources to /home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/target/scala-2.12/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Extract.scala:8:34: not found: value ujson[0m
+[0m[[0m[31merror[0m] [0m[0m  def extract_page(url: String): ujson.Value.Value = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Extract.scala:16:14: not found: value requests[0m
+[0m[[0m[31merror[0m] [0m[0m    val res: requests.Response = requests.get(url, headers = headers)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Extract.scala:16:34: not found: value requests[0m
+[0m[[0m[31merror[0m] [0m[0m    val res: requests.Response = requests.get(url, headers = headers)[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Extract.scala:16:60: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m    val res: requests.Response = requests.get(url, headers = headers)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Extract.scala:17:14: not found: value ujson[0m
+[0m[[0m[31merror[0m] [0m[0m    val ujs: ujson.Value.Value = ujson.read(res.text)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Extract.scala:17:34: not found: value ujson[0m
+[0m[[0m[31merror[0m] [0m[0m    val ujs: ujson.Value.Value = ujson.read(res.text)[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Extract.scala:21:45: not found: value ujson[0m
+[0m[[0m[31merror[0m] [0m[0m  def extract_pages_data(url: String): List[ujson.Value] = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Extract.scala:30:26: not found: value ujson[0m
+[0m[[0m[31merror[0m] [0m[0m    var pages_data: List[ujson.Value] = List[ujson.Value]()[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Extract.scala:30:46: not found: value ujson[0m
+[0m[[0m[31merror[0m] [0m[0m    var pages_data: List[ujson.Value] = List[ujson.Value]()[0m
+[0m[[0m[31merror[0m] [0m[0m                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Extract.scala:31:17: not found: value ujson[0m
+[0m[[0m[31merror[0m] [0m[0m    var cursor: ujson.Value = 0[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Extract.scala:34:16: not found: value ujson[0m
+[0m[[0m[31merror[0m] [0m[0m      val ujs: ujson.Value.Value = extract_page(s"${url}&cursor=${cursor}")[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Extract.scala:35:17: not found: value ujson[0m
+[0m[[0m[31merror[0m] [0m[0m      val data: ujson.Value = ujs("data")[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Extract.scala:39:23: not found: value ujson[0m
+[0m[[0m[31merror[0m] [0m[0m        val metadata: ujson.Value = ujs("meta")[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Extract.scala:44:20: not found: value ujson[0m
+[0m[[0m[31merror[0m] [0m[0m          cursor = ujson.Null[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Test.scala:11:14: not found: value requests[0m
+[0m[[0m[31merror[0m] [0m[0m    val res: requests.Response = requests.get(stats_url, headers = headers)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Test.scala:11:34: not found: value requests[0m
+[0m[[0m[31merror[0m] [0m[0m    val res: requests.Response = requests.get(stats_url, headers = headers)[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Test.scala:11:66: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m    val res: requests.Response = requests.get(stats_url, headers = headers)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Test.scala:12:14: not found: value ujson[0m
+[0m[[0m[31merror[0m] [0m[0m    val ujs: ujson.Value.Value = ujson.read(res.text)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/src/main/scala/Test.scala:12:34: not found: value ujson[0m
+[0m[[0m[31merror[0m] [0m[0m    val ujs: ujson.Value.Value = ujson.read(res.text)[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m19 errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 0 s, completed Jul 22, 2024, 1:55:24 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m

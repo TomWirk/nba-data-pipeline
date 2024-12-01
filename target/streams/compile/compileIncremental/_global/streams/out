@@ -1,0 +1,37 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 4 products, 2 sources, 6 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/Transform.scala, ${BASE}/src/main/scala/Extract.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating '${CSR_CACHE}/https/repo1.maven.org/maven2/com/lihaoyi/geny_2.12/0.7.1/geny_2.12-0.7.1.jar' because could not find class geny.ByteData on the classpath.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating '${CSR_CACHE}/https/repo1.maven.org/maven2/com/lihaoyi/requests_2.12/0.6.9/requests_2.12-0.6.9.jar' because requests.Compress is now provided by ${CSR_CACHE}/https/repo1.maven.org/maven2/com/lihaoyi/requests_2.12/0.1.8/requests_2.12-0.1.8.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating '${CSR_CACHE}/https/repo1.maven.org/maven2/com/lihaoyi/ujson_2.12/2.0.0/ujson_2.12-2.0.0.jar' because ujson.Arr is now provided by ${CSR_CACHE}/https/repo1.maven.org/maven2/com/lihaoyi/ujson_2.12/0.7.1/ujson_2.12-0.7.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating '${CSR_CACHE}/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.12/3.1.2/spark-sql_2.12-3.1.2.jar' because could not find class org.apache.spark.sql.DataFrameWriter on the classpath.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating '${CSR_CACHE}/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/3.1.2/spark-catalyst_2.12-3.1.2.jar' because could not find class org.apache.spark.sql.Row on the classpath.[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(${CSR_CACHE}/https/repo1.maven.org/maven2/com/lihaoyi/requests_2.12/0.6.9/requests_2.12-0.6.9.jar, ${CSR_CACHE}/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.12/3.1.2/spark-sql_2.12-3.1.2.jar, ${CSR_CACHE}/https/repo1.maven.org/maven2/com/lihaoyi/geny_2.12/0.7.1/geny_2.12-0.7.1.jar, ${CSR_CACHE}/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/3.1.2/spark-catalyst_2.12-3.1.2.jar, ${CSR_CACHE}/https/repo1.maven.org/maven2/com/lihaoyi/ujson_2.12/2.0.0/ujson_2.12-2.0.0.jar),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set(${CSR_CACHE}/https/repo1.maven.org/maven2/com/lihaoyi/requests_2.12/0.6.9/requests_2.12-0.6.9.jar, ${CSR_CACHE}/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.12/3.1.2/spark-sql_2.12-3.1.2.jar, ${CSR_CACHE}/https/repo1.maven.org/maven2/com/lihaoyi/geny_2.12/0.7.1/geny_2.12-0.7.1.jar, ${CSR_CACHE}/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/3.1.2/spark-catalyst_2.12-3.1.2.jar, ${CSR_CACHE}/https/repo1.maven.org/maven2/com/lihaoyi/ujson_2.12/2.0.0/ujson_2.12-2.0.0.jar)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set(${BASE}/src/main/scala/Transform.scala, ${BASE}/src/main/scala/Extract.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mall 2 sources are invalidated[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0 percent of all sources[0m
+[0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 2 Scala sources to /home/administrateur/Documents/datascientest/Scala/exam_RAOULT/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.10.0:compile for Scala 2.12.15[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 27184ea7 for Scala compiler version 2.12.15[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/administrateur/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.15/scala-library-2.12.15.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/administrateur/Documents/datascientest/Scala/exam_RAOULT/target/scala-2.12/classes:/home/administrateur/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/requests_2.12/0.1.8/requests_2.12-0.1.8.jar:/home/administrateur/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/ujson_2.12/0.7.1/ujson_2.12-0.7.1.jar:/home/administrateur/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-core_2.12/0.7.1/upickle-core_2.12-0.7.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompilation failed (CompilerInterface)[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
