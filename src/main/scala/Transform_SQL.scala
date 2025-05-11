@@ -7,7 +7,7 @@ import scala.collection.JavaConverters._
 
 
 
-object Transform {
+object TransformWithSQL {
 
 val spark = SparkSession.builder()
       .appName("NBA")
