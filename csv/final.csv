@@ -1,0 +1,346 @@
+game_id;team_id;team_name;pts_tot;pts_reb;pts_ast;pts_blk;best_at_pts;best_at_reb;best_at_ast;best_at_blk
+1037783;24;Phoenix Suns;140;44;36;13;Kevin Durant;Jusuf Nurkic;Kevin Durant;Nassir Little
+1037995;14;Los Angeles Lakers;115;43;24;1;Anthony Davis;Anthony Davis;LeBron James;Anthony Davis
+1038218;1;Atlanta Hawks;112;45;30;2;Dejounte Murray;Clint Capela;Dejounte Murray;Clint Capela
+1038487;1;Atlanta Hawks;112;42;27;3;Saddiq Bey;Bruno Fernando;Dejounte Murray;Saddiq Bey
+1037755;24;Phoenix Suns;133;32;31;3;Devin Booker;Kevin Durant;Kevin Durant;Grayson Allen
+1038652;1;Atlanta Hawks;123;53;24;5;Dejounte Murray;Clint Capela;Dejounte Murray;Clint Capela
+1037802;17;Milwaukee Bucks;116;47;23;2;Brook Lopez;Giannis Antetokounmpo;Khris Middleton;Pat Connaughton
+1038359;17;Milwaukee Bucks;112;51;30;6;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Brook Lopez
+1038282;1;Atlanta Hawks;129;43;29;4;Trae Young;Clint Capela;Trae Young;Onyeka Okongwu
+1038058;17;Milwaukee Bucks;130;42;30;4;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Khris Middleton
+1038443;1;Atlanta Hawks;97;39;18;8;Dejounte Murray;Clint Capela;Dejounte Murray;Clint Capela
+1038602;24;Phoenix Suns;128;38;28;11;Devin Booker;Jusuf Nurkic;Bradley Beal;Kevin Durant
+3277480;1;Atlanta Hawks;152;40;28;4;Trae Young;Saddiq Bey;Trae Young;Clint Capela
+1038308;1;Atlanta Hawks;144;39;35;4;De'Andre Hunter;De'Andre Hunter;Trae Young;Bruno Fernando
+1037908;14;Los Angeles Lakers;122;46;31;4;Anthony Davis;Anthony Davis;D'Angelo Russell;Rui Hachimura
+1038125;1;Atlanta Hawks;108;28;25;1;Dejounte Murray;Bogdan Bogdanovic;Trent Forrest;Clint Capela
+1038253;24;Phoenix Suns;118;47;30;8;Eric Gordon;Devin Booker;Bradley Beal;Kevin Durant
+1038661;24;Phoenix Suns;103;39;26;6;Kevin Durant;Grayson Allen;Grayson Allen;Drew Eubanks
+1038083;14;Los Angeles Lakers;113;35;26;3;LeBron James;Austin Reaves;Austin Reaves;Anthony Davis
+1038103;24;Phoenix Suns;111;25;17;4;Kevin Durant;Kevin Durant;Devin Booker;Drew Eubanks
+1038349;24;Phoenix Suns;112;42;28;8;Devin Booker;Kevin Durant;Kevin Durant;Kevin Durant
+1038398;24;Phoenix Suns;110;58;23;8;Kevin Durant;Bol Bol;Kevin Durant;Grayson Allen
+1037674;1;Atlanta Hawks;123;52;28;5;Trae Young;Jalen Johnson;Trae Young;Bogdan Bogdanovic
+1037839;14;Los Angeles Lakers;94;32;23;4;LeBron James;Anthony Davis;D'Angelo Russell;Anthony Davis
+1037607;17;Milwaukee Bucks;118;44;20;4;Damian Lillard;Giannis Antetokounmpo;Damian Lillard;Giannis Antetokounmpo
+3277350;17;Milwaukee Bucks;110;41;24;10;Damian Lillard;Khris Middleton;Giannis Antetokounmpo;Brook Lopez
+1037892;17;Milwaukee Bucks;133;48;34;4;Giannis Antetokounmpo;Khris Middleton;Damian Lillard;Brook Lopez
+1038405;14;Los Angeles Lakers;123;46;28;4;LeBron James;Anthony Davis;LeBron James;Austin Reaves
+1038410;24;Phoenix Suns;123;50;32;9;Grayson Allen;Jusuf Nurkic;Devin Booker;Bol Bol
+3277453;24;Phoenix Suns;131;36;35;4;Kevin Durant;Kevin Durant;Devin Booker;Keita Bates-Diop
+1038123;14;Los Angeles Lakers;109;37;33;4;D'Angelo Russell;Jarred Vanderbilt;LeBron James;Anthony Davis
+1038028;24;Phoenix Suns;133;39;34;11;Devin Booker;Jusuf Nurkic;Kevin Durant;Kevin Durant
+1038210;14;Los Angeles Lakers;116;41;27;9;D'Angelo Russell;Anthony Davis;D'Angelo Russell;Cameron Reddish
+1037608;14;Los Angeles Lakers;100;42;24;7;Anthony Davis;Anthony Davis;LeBron James;Anthony Davis
+1038197;14;Los Angeles Lakers;134;45;28;6;D'Angelo Russell;Anthony Davis;D'Angelo Russell;Christian Wood
+1038526;24;Phoenix Suns;117;42;23;6;Kevin Durant;Kevin Durant;Devin Booker;Grayson Allen
+1037702;14;Los Angeles Lakers;94;34;20;6;Rui Hachimura;Max Christie;Austin Reaves;D'Angelo Russell
+1037774;17;Milwaukee Bucks;132;40;29;3;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Brook Lopez
+1038135;1;Atlanta Hawks;99;50;21;7;Trae Young;Onyeka Okongwu;Trae Young;Onyeka Okongwu
+1038088;17;Milwaukee Bucks;108;41;21;4;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Giannis Antetokounmpo
+1038346;1;Atlanta Hawks;122;41;25;8;Dejounte Murray;Bogdan Bogdanovic;Trae Young;Onyeka Okongwu
+3277529;1;Atlanta Hawks;105;44;21;3;Bogdan Bogdanovic;Clint Capela;Trae Young;Clint Capela
+7049317;1;Atlanta Hawks;113;49;25;4;Trae Young;Clint Capela;Dejounte Murray;Clint Capela
+1038321;1;Atlanta Hawks;117;49;24;2;Saddiq Bey;Jalen Johnson;Trae Young;Onyeka Okongwu
+1037679;24;Phoenix Suns;120;43;29;10;Kevin Durant;Jordan Goodwin;Eric Gordon;Drew Eubanks
+1038065;24;Phoenix Suns;122;32;23;2;Devin Booker;Jusuf Nurkic;Devin Booker;Bradley Beal
+1038042;24;Phoenix Suns;112;35;21;4;Kevin Durant;Jusuf Nurkic;Devin Booker;Grayson Allen
+1037694;1;Atlanta Hawks;117;59;27;3;Dejounte Murray;Onyeka Okongwu;Trae Young;Clint Capela
+1038046;17;Milwaukee Bucks;113;46;27;8;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Brook Lopez
+1038613;1;Atlanta Hawks;132;43;40;5;Dejounte Murray;Clint Capela;Dejounte Murray;Wesley Matthews
+15882422;17;Milwaukee Bucks;98;40;19;0;Damian Lillard;Bobby Portis;Patrick Beverley;Giannis Antetokounmpo
+15882422;17;Milwaukee Bucks;98;40;19;0;Damian Lillard;Bobby Portis;Patrick Beverley;Thanasis Antetokounmpo
+1038714;17;Milwaukee Bucks;111;45;21;6;Damian Lillard;Bobby Portis;Damian Lillard;Pat Connaughton
+1038337;17;Milwaukee Bucks;120;53;26;5;Damian Lillard;Giannis Antetokounmpo;Damian Lillard;Brook Lopez
+1037753;17;Milwaukee Bucks;128;41;25;9;Damian Lillard;Brook Lopez;Damian Lillard;Brook Lopez
+1038228;24;Phoenix Suns;131;38;24;5;Devin Booker;Kevin Durant;Kevin Durant;Devin Booker
+1038245;1;Atlanta Hawks;126;51;27;4;Trae Young;Clint Capela;Trae Young;Bogdan Bogdanovic
+1038317;24;Phoenix Suns;114;49;17;5;Devin Booker;Bradley Beal;Devin Booker;Kevin Durant
+1038317;17;Milwaukee Bucks;106;44;23;4;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Robin Lopez
+3277483;14;Los Angeles Lakers;131;52;35;5;Anthony Davis;Anthony Davis;LeBron James;Max Christie
+1037878;1;Atlanta Hawks;121;40;23;4;Trae Young;Clint Capela;Trae Young;Clint Capela
+1038546;14;Los Angeles Lakers;107;38;25;2;Austin Reaves;LeBron James;LeBron James;Anthony Davis
+1038754;17;Milwaukee Bucks;117;43;27;4;Bobby Portis;Bobby Portis;Damian Lillard;Brook Lopez
+1038162;1;Atlanta Hawks;106;41;21;2;Dejounte Murray;Jalen Johnson;Trae Young;Bogdan Bogdanovic
+1038247;24;Phoenix Suns;98;39;19;5;Devin Booker;Drew Eubanks;Bradley Beal;Devin Booker
+1038020;14;Los Angeles Lakers;133;42;41;7;Anthony Davis;Anthony Davis;LeBron James;Anthony Davis
+1038771;17;Milwaukee Bucks;107;42;27;3;Brook Lopez;Bobby Portis;Patrick Beverley;MarJon Beauchamp
+15881960;24;Phoenix Suns;95;28;16;6;Kevin Durant;Kevin Durant;Bradley Beal;Jusuf Nurkic
+1037979;24;Phoenix Suns;105;45;17;4;Kevin Durant;Udoka Azubuike;Devin Booker;Grayson Allen
+1038717;24;Phoenix Suns;97;49;29;3;Grayson Allen;Jusuf Nurkic;Devin Booker;Bol Bol
+1037880;24;Phoenix Suns;116;44;24;5;Devin Booker;Devin Booker;Devin Booker;Drew Eubanks
+1037962;14;Los Angeles Lakers;108;40;27;7;LeBron James;Anthony Davis;LeBron James;Anthony Davis
+1038048;24;Phoenix Suns;109;47;24;5;Bradley Beal;Bol Bol;Devin Booker;Jusuf Nurkic
+1038261;1;Atlanta Hawks;138;46;32;2;Trae Young;Clint Capela;Trae Young;Clint Capela
+1037645;24;Phoenix Suns;114;43;29;7;Kevin Durant;Jusuf Nurkic;Kevin Durant;Drew Eubanks
+7050284;1;Atlanta Hawks;114;55;20;4;De'Andre Hunter;Clint Capela;Dejounte Murray;Onyeka Okongwu
+1038394;14;Los Angeles Lakers;110;41;28;9;Anthony Davis;Anthony Davis;D'Angelo Russell;Anthony Davis
+1038716;1;Atlanta Hawks;95;56;21;2;Bogdan Bogdanovic;Jalen Johnson;Jalen Johnson;Clint Capela
+1037629;17;Milwaukee Bucks;110;39;22;3;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Giannis Antetokounmpo
+1037643;14;Los Angeles Lakers;106;40;28;10;D'Angelo Russell;Anthony Davis;D'Angelo Russell;Anthony Davis
+1037864;1;Atlanta Hawks;137;37;24;2;Trae Young;Clint Capela;Trae Young;Clint Capela
+1038777;24;Phoenix Suns;108;41;25;4;Kevin Durant;Jusuf Nurkic;Devin Booker;Jusuf Nurkic
+1038102;17;Milwaukee Bucks;116;38;31;6;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Andre Jackson Jr.
+1037756;14;Los Angeles Lakers;110;43;25;6;LeBron James;Austin Reaves;LeBron James;Anthony Davis
+1038187;1;Atlanta Hawks;95;45;25;4;Dejounte Murray;Clint Capela;Dejounte Murray;Clint Capela
+1038413;1;Atlanta Hawks;109;44;31;3;Dejounte Murray;Jalen Johnson;Dejounte Murray;Jalen Johnson
+1038440;14;Los Angeles Lakers;116;39;28;5;LeBron James;Anthony Davis;LeBron James;Anthony Davis
+1037826;14;Los Angeles Lakers;121;44;34;8;Anthony Davis;Anthony Davis;Austin Reaves;Anthony Davis
+1037989;14;Los Angeles Lakers;129;44;38;7;LeBron James;Anthony Davis;Austin Reaves;Anthony Davis
+1038739;1;Atlanta Hawks;111;59;28;2;Dejounte Murray;Dejounte Murray;Dejounte Murray;Bogdan Bogdanovic
+1037909;24;Phoenix Suns;112;49;28;4;Devin Booker;Jusuf Nurkic;Devin Booker;Kevin Durant
+1038240;17;Milwaukee Bucks;141;45;30;0;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Thanasis Antetokounmpo
+1038240;17;Milwaukee Bucks;141;45;30;0;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Giannis Antetokounmpo
+1038565;14;Los Angeles Lakers;121;39;32;4;LeBron James;Jaxson Hayes;D'Angelo Russell;Anthony Davis
+1038686;14;Los Angeles Lakers;128;47;38;8;D'Angelo Russell;Anthony Davis;LeBron James;Spencer Dinwiddie
+15882404;17;Milwaukee Bucks;108;40;24;4;Damian Lillard;Bobby Portis;Khris Middleton;Patrick Beverley
+15882409;17;Milwaukee Bucks;118;43;20;2;Khris Middleton;Bobby Portis;Damian Lillard;Patrick Beverley
+1037985;1;Atlanta Hawks;119;41;28;5;Trae Young;Clint Capela;Trae Young;Clint Capela
+1038164;17;Milwaukee Bucks;95;36;19;6;Damian Lillard;Andre Jackson Jr.;Damian Lillard;Brook Lopez
+1038366;24;Phoenix Suns;130;39;29;6;Kevin Durant;Kevin Durant;Devin Booker;Jusuf Nurkic
+1038037;1;Atlanta Hawks;130;58;27;3;Trae Young;Clint Capela;Trae Young;Saddiq Bey
+1038748;24;Phoenix Suns;92;38;17;7;Kevin Durant;Royce O'Neale;Devin Booker;Bradley Beal
+1037976;1;Atlanta Hawks;113;43;29;2;Trae Young;Saddiq Bey;Trae Young;Onyeka Okongwu
+1038035;14;Los Angeles Lakers;106;39;23;4;Anthony Davis;Anthony Davis;Anthony Davis;Anthony Davis
+1038009;17;Milwaukee Bucks;144;41;41;7;Giannis Antetokounmpo;Giannis Antetokounmpo;Khris Middleton;Giannis Antetokounmpo
+1038590;17;Milwaukee Bucks;119;41;20;6;Damian Lillard;Bobby Portis;Damian Lillard;Brook Lopez
+1037733;24;Phoenix Suns;99;52;20;7;Kevin Durant;Kevin Durant;Bradley Beal;Kevin Durant
+1038339;14;Los Angeles Lakers;139;32;32;5;D'Angelo Russell;Jaxson Hayes;LeBron James;Anthony Davis
+1038558;1;Atlanta Hawks;122;41;32;5;Dejounte Murray;Clint Capela;Dejounte Murray;Clint Capela
+1038783;17;Milwaukee Bucks;88;34;16;4;Khris Middleton;Bobby Portis;Khris Middleton;Brook Lopez
+1037907;17;Milwaukee Bucks;140;43;27;8;Giannis Antetokounmpo;Giannis Antetokounmpo;Khris Middleton;Brook Lopez
+1037593;14;Los Angeles Lakers;107;44;23;4;LeBron James;Anthony Davis;D'Angelo Russell;Anthony Davis
+7045524;14;Los Angeles Lakers;106;45;24;2;LeBron James;Anthony Davis;LeBron James;Anthony Davis
+1038655;14;Los Angeles Lakers;90;48;24;3;Anthony Davis;Anthony Davis;LeBron James;Cameron Reddish
+1037723;1;Atlanta Hawks;109;48;23;6;Trae Young;Clint Capela;Trae Young;Clint Capela
+1038144;17;Milwaukee Bucks;143;40;31;3;Damian Lillard;Giannis Antetokounmpo;Giannis Antetokounmpo;Brook Lopez
+1038441;17;Milwaukee Bucks;111;44;21;3;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Brook Lopez
+15882417;14;Los Angeles Lakers;106;41;30;6;LeBron James;Anthony Davis;LeBron James;Anthony Davis
+1037611;1;Atlanta Hawks;120;44;28;6;De'Andre Hunter;Clint Capela;Trae Young;Saddiq Bey
+1038668;1;Atlanta Hawks;113;39;24;3;Bogdan Bogdanovic;Bogdan Bogdanovic;Dejounte Murray;Clint Capela
+1038067;14;Los Angeles Lakers;96;50;29;6;Anthony Davis;Anthony Davis;LeBron James;Anthony Davis
+1037852;24;Phoenix Suns;105;47;25;5;Kevin Durant;Jusuf Nurkic;Kevin Durant;Jusuf Nurkic
+1038183;14;Los Angeles Lakers;112;44;31;3;Anthony Davis;Anthony Davis;D'Angelo Russell;Anthony Davis
+1038410;14;Los Angeles Lakers;113;34;28;4;LeBron James;Anthony Davis;LeBron James;Anthony Davis
+1038512;24;Phoenix Suns;107;41;21;1;Kevin Durant;Jusuf Nurkic;Kevin Durant;Jusuf Nurkic
+1038537;17;Milwaukee Bucks;94;44;23;2;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Damian Lillard
+1038610;14;Los Angeles Lakers;101;54;22;7;Anthony Davis;Anthony Davis;LeBron James;Anthony Davis
+1037594;24;Phoenix Suns;108;60;23;7;Devin Booker;Jusuf Nurkic;Devin Booker;Drew Eubanks
+1037659;14;Los Angeles Lakers;130;51;28;9;LeBron James;LeBron James;LeBron James;Anthony Davis
+1037831;24;Phoenix Suns;116;47;27;11;Devin Booker;Jusuf Nurkic;Devin Booker;Jusuf Nurkic
+1037883;14;Los Angeles Lakers;107;48;24;7;Anthony Davis;Anthony Davis;LeBron James;Anthony Davis
+1038275;17;Milwaukee Bucks;116;39;27;5;Giannis Antetokounmpo;Giannis Antetokounmpo;Khris Middleton;Brook Lopez
+1038757;24;Phoenix Suns;124;48;29;6;Devin Booker;Jusuf Nurkic;Jusuf Nurkic;Kevin Durant
+1038786;24;Phoenix Suns;125;32;28;3;Bradley Beal;Grayson Allen;Jusuf Nurkic;Bradley Beal
+1037871;24;Phoenix Suns;111;43;22;8;Jusuf Nurkic;Grayson Allen;Kevin Durant;Kevin Durant
+1038254;14;Los Angeles Lakers;119;36;26;6;Anthony Davis;Anthony Davis;LeBron James;Max Christie
+1037810;24;Phoenix Suns;123;43;22;8;Kevin Durant;Devin Booker;Devin Booker;Drew Eubanks
+15882375;14;Los Angeles Lakers;103;40;22;7;Anthony Davis;Anthony Davis;LeBron James;Anthony Davis
+15882403;14;Los Angeles Lakers;99;38;24;3;Anthony Davis;Anthony Davis;LeBron James;LeBron James
+1038517;1;Atlanta Hawks;103;41;28;4;Bogdan Bogdanovic;Clint Capela;Dejounte Murray;Bruno Fernando
+1038626;1;Atlanta Hawks;120;44;30;3;De'Andre Hunter;Clint Capela;Dejounte Murray;Clint Capela
+1037626;24;Phoenix Suns;126;39;31;8;Kevin Durant;Jusuf Nurkic;Kevin Durant;Bol Bol
+1038198;17;Milwaukee Bucks;122;49;26;8;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Brook Lopez
+1038388;24;Phoenix Suns;113;41;20;4;Devin Booker;Royce O'Neale;Devin Booker;Kevin Durant
+3277404;24;Phoenix Suns;119;52;22;1;Kevin Durant;Grayson Allen;Jusuf Nurkic;Drew Eubanks
+1038217;24;Phoenix Suns;132;49;30;4;Devin Booker;Kevin Durant;Bradley Beal;Kevin Durant
+1038751;1;Atlanta Hawks;114;38;35;2;Bogdan Bogdanovic;Mouhamed Gueye;Trae Young;Kobe Bufkin
+1038179;1;Atlanta Hawks;109;38;23;2;Dejounte Murray;Clint Capela;Dejounte Murray;Clint Capela
+1038617;24;Phoenix Suns;131;39;37;5;Devin Booker;Jusuf Nurkic;Bradley Beal;Drew Eubanks
+1038719;14;Los Angeles Lakers;116;40;30;11;D'Angelo Russell;Anthony Davis;LeBron James;Anthony Davis
+1038740;17;Milwaukee Bucks;104;49;29;5;Patrick Beverley;Patrick Beverley;Khris Middleton;Giannis Antetokounmpo
+1038481;1;Atlanta Hawks;116;51;26;5;Jalen Johnson;Saddiq Bey;Jalen Johnson;Bruno Fernando
+15881961;17;Milwaukee Bucks;109;47;21;5;Damian Lillard;Bobby Portis;Patrick Beverley;Brook Lopez
+1038456;17;Milwaukee Bucks;113;49;22;4;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Giannis Antetokounmpo
+1037701;24;Phoenix Suns;116;53;32;9;Grayson Allen;Jusuf Nurkic;Kevin Durant;Keita Bates-Diop
+1038507;14;Los Angeles Lakers;123;38;27;7;D'Angelo Russell;Anthony Davis;D'Angelo Russell;Anthony Davis
+1038647;14;Los Angeles Lakers;136;43;31;4;Rui Hachimura;LeBron James;LeBron James;Rui Hachimura
+1038380;14;Los Angeles Lakers;138;37;34;4;Anthony Davis;Anthony Davis;D'Angelo Russell;Anthony Davis
+1038294;17;Milwaukee Bucks;129;36;34;2;Giannis Antetokounmpo;Bobby Portis;Giannis Antetokounmpo;Giannis Antetokounmpo
+1038695;14;Los Angeles Lakers;125;49;21;4;Anthony Davis;Anthony Davis;LeBron James;Anthony Davis
+1038282;24;Phoenix Suns;120;38;31;5;Kevin Durant;Jusuf Nurkic;Bradley Beal;Grayson Allen
+1037721;17;Milwaukee Bucks;97;36;25;6;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo
+1037944;1;Atlanta Hawks;130;40;25;10;Trae Young;Clint Capela;Trae Young;Clint Capela
+1038297;24;Phoenix Suns;140;42;33;6;Bradley Beal;Jusuf Nurkic;Jusuf Nurkic;Keita Bates-Diop
+1038470;24;Phoenix Suns;110;50;26;7;Bradley Beal;Jusuf Nurkic;Bradley Beal;Grayson Allen
+3277454;14;Los Angeles Lakers;107;44;27;6;LeBron James;Anthony Davis;LeBron James;Anthony Davis
+1038622;17;Milwaukee Bucks;118;57;33;5;Giannis Antetokounmpo;Giannis Antetokounmpo;Khris Middleton;Patrick Beverley
+1037636;1;Atlanta Hawks;127;36;28;7;Dejounte Murray;Dejounte Murray;Trae Young;Clint Capela
+1038010;24;Phoenix Suns;129;44;28;11;Kevin Durant;Kevin Durant;Kevin Durant;Eric Gordon
+1038668;17;Milwaukee Bucks;122;40;27;5;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Brook Lopez
+1037785;14;Los Angeles Lakers;105;42;26;1;LeBron James;Anthony Davis;LeBron James;Anthony Davis
+1037972;14;Los Angeles Lakers;111;38;21;6;Anthony Davis;Anthony Davis;D'Angelo Russell;Anthony Davis
+1038038;14;Los Angeles Lakers;109;35;26;10;LeBron James;Anthony Davis;Austin Reaves;Anthony Davis
+1038687;17;Milwaukee Bucks;113;57;31;6;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Brook Lopez
+1038355;1;Atlanta Hawks;126;49;33;3;Bogdan Bogdanovic;Onyeka Okongwu;Trae Young;De'Andre Hunter
+1038696;1;Atlanta Hawks;121;48;36;8;Jalen Johnson;Clint Capela;Jalen Johnson;Bogdan Bogdanovic
+1037632;14;Los Angeles Lakers;127;53;27;4;Anthony Davis;Anthony Davis;D'Angelo Russell;Anthony Davis
+1038368;14;Los Angeles Lakers;125;47;32;11;LeBron James;Anthony Davis;LeBron James;Anthony Davis
+1038524;14;Los Angeles Lakers;120;56;29;4;LeBron James;Anthony Davis;LeBron James;Anthony Davis
+1037629;1;Atlanta Hawks;127;46;32;2;Trae Young;Clint Capela;Trae Young;Jalen Johnson
+1038205;1;Atlanta Hawks;107;50;19;7;Dejounte Murray;Clint Capela;Dejounte Murray;Clint Capela
+3277499;24;Phoenix Suns;110;40;22;6;Devin Booker;Jusuf Nurkic;Jusuf Nurkic;Keita Bates-Diop
+7996352;14;Los Angeles Lakers;133;59;30;4;LeBron James;Anthony Davis;LeBron James;Anthony Davis
+1037788;17;Milwaukee Bucks;142;55;33;6;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Brook Lopez
+1038000;1;Atlanta Hawks;113;40;24;3;Bogdan Bogdanovic;Jalen Johnson;Trae Young;Clint Capela
+1037671;24;Phoenix Suns;100;42;22;12;Kevin Durant;Jusuf Nurkic;Jusuf Nurkic;Keita Bates-Diop
+1037955;24;Phoenix Suns;104;47;23;6;Kevin Durant;Jusuf Nurkic;Devin Booker;Drew Eubanks
+1038023;1;Atlanta Hawks;110;50;29;4;Trae Young;Jalen Johnson;Trae Young;Clint Capela
+1038141;14;Los Angeles Lakers;125;40;30;8;D'Angelo Russell;Anthony Davis;Anthony Davis;Anthony Davis
+1038095;24;Phoenix Suns;115;50;29;6;Devin Booker;Jusuf Nurkic;Devin Booker;Grayson Allen
+1037863;14;Los Angeles Lakers;110;41;24;3;Anthony Davis;Anthony Davis;D'Angelo Russell;Colin Castleton
+1038568;24;Phoenix Suns;129;39;36;5;Bradley Beal;Devin Booker;Grayson Allen;Kevin Durant
+1037751;1;Atlanta Hawks;114;30;28;6;Bogdan Bogdanovic;Onyeka Okongwu;Trae Young;Clint Capela
+1038448;14;Los Angeles Lakers;134;45;30;6;Anthony Davis;Anthony Davis;LeBron James;Anthony Davis
+1038594;24;Phoenix Suns;115;55;34;10;Grayson Allen;Jusuf Nurkic;Devin Booker;Kevin Durant
+1037688;17;Milwaukee Bucks;129;48;26;2;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Giannis Antetokounmpo
+1038747;14;Los Angeles Lakers;120;40;31;3;LeBron James;Rui Hachimura;LeBron James;Rui Hachimura
+15881512;1;Atlanta Hawks;116;34;30;2;Dejounte Murray;Clint Capela;Trae Young;Bogdan Bogdanovic
+3277434;14;Los Angeles Lakers;134;54;30;10;D'Angelo Russell;Austin Reaves;Austin Reaves;Anthony Davis
+1038169;14;Los Angeles Lakers;127;45;33;1;D'Angelo Russell;Anthony Davis;Anthony Davis;Anthony Davis
+1037970;17;Milwaukee Bucks;118;51;26;6;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Giannis Antetokounmpo
+1038516;17;Milwaukee Bucks;124;41;28;6;Damian Lillard;Bobby Portis;Damian Lillard;Brook Lopez
+1038123;24;Phoenix Suns;127;46;23;4;Bradley Beal;Jusuf Nurkic;Devin Booker;Bol Bol
+1037900;24;Phoenix Suns;119;41;27;7;Devin Booker;Jusuf Nurkic;Devin Booker;Drew Eubanks
+1038458;1;Atlanta Hawks;102;42;23;4;Saddiq Bey;Clint Capela;Dejounte Murray;Bruno Fernando
+1037905;1;Atlanta Hawks;128;42;32;8;Trae Young;Saddiq Bey;Trae Young;Clint Capela
+1038731;17;Milwaukee Bucks;109;38;27;7;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Brook Lopez
+3277445;17;Milwaukee Bucks;130;49;31;7;Damian Lillard;Giannis Antetokounmpo;Giannis Antetokounmpo;Brook Lopez
+1038553;24;Phoenix Suns;107;57;31;3;Devin Booker;Jusuf Nurkic;Devin Booker;Bol Bol
+1038684;24;Phoenix Suns;124;49;29;6;Devin Booker;Jusuf Nurkic;Devin Booker;Jusuf Nurkic
+1038025;17;Milwaukee Bucks;119;43;26;6;Giannis Antetokounmpo;Giannis Antetokounmpo;Khris Middleton;Brook Lopez
+1037963;1;Atlanta Hawks;134;44;31;3;Trae Young;Onyeka Okongwu;Trae Young;Bogdan Bogdanovic
+1038293;14;Los Angeles Lakers;113;38;28;11;LeBron James;Anthony Davis;Austin Reaves;Anthony Davis
+1038334;1;Atlanta Hawks;127;40;31;9;Trae Young;Saddiq Bey;Trae Young;Bogdan Bogdanovic
+1038159;24;Phoenix Suns;119;46;32;6;Grayson Allen;Jusuf Nurkic;Devin Booker;Grayson Allen
+1038184;17;Milwaukee Bucks;141;49;30;6;Damian Lillard;Giannis Antetokounmpo;Damian Lillard;Brook Lopez
+1038276;14;Los Angeles Lakers;114;52;30;2;Austin Reaves;Jaxson Hayes;D'Angelo Russell;Rui Hachimura
+1038574;1;Atlanta Hawks;110;45;32;7;Dejounte Murray;Clint Capela;Dejounte Murray;Clint Capela
+1038602;1;Atlanta Hawks;115;36;27;3;Dejounte Murray;Clint Capela;Dejounte Murray;Clint Capela
+15882413;14;Los Angeles Lakers;119;46;23;2;LeBron James;Anthony Davis;Anthony Davis;Anthony Davis
+7045523;17;Milwaukee Bucks;146;37;32;6;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Brook Lopez
+1037663;24;Phoenix Suns;121;34;26;4;Devin Booker;Devin Booker;Devin Booker;Kevin Durant
+1037888;1;Atlanta Hawks;122;35;25;2;Bogdan Bogdanovic;Clint Capela;Trae Young;Saddiq Bey
+1038291;1;Atlanta Hawks;141;57;27;4;Trae Young;Onyeka Okongwu;Jalen Johnson;Onyeka Okongwu
+1038365;17;Milwaukee Bucks;97;38;24;4;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo
+1038702;24;Phoenix Suns;122;43;32;3;Devin Booker;Jusuf Nurkic;Devin Booker;Bol Bol
+15882418;17;Milwaukee Bucks;115;44;23;4;Khris Middleton;Khris Middleton;Patrick Beverley;Brook Lopez
+1037861;17;Milwaukee Bucks;113;43;28;6;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Giannis Antetokounmpo
+1038400;17;Milwaukee Bucks;112;47;24;4;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Patrick Beverley
+3277404;14;Los Angeles Lakers;122;43;27;7;LeBron James;Anthony Davis;D'Angelo Russell;Taurean Prince
+1038137;17;Milwaukee Bucks;129;49;33;5;Giannis Antetokounmpo;Andre Jackson Jr.;Khris Middleton;Brook Lopez
+1038631;24;Phoenix Suns;102;47;28;7;Devin Booker;Jusuf Nurkic;Bradley Beal;Devin Booker
+7045524;24;Phoenix Suns;103;44;25;5;Kevin Durant;Devin Booker;Devin Booker;Grayson Allen
+1038730;24;Phoenix Suns;105;38;30;8;Bradley Beal;Jusuf Nurkic;Devin Booker;Grayson Allen
+1037689;14;Los Angeles Lakers;107;38;28;5;LeBron James;Austin Reaves;Austin Reaves;LeBron James
+1038225;14;Los Angeles Lakers;141;30;35;4;D'Angelo Russell;Anthony Davis;LeBron James;Anthony Davis
+1038582;14;Los Angeles Lakers;136;48;39;4;D'Angelo Russell;Anthony Davis;LeBron James;Anthony Davis
+1038462;24;Phoenix Suns;109;47;23;6;Kevin Durant;Jusuf Nurkic;Devin Booker;Kevin Durant
+1038637;17;Milwaukee Bucks;124;61;37;5;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo
+3277530;17;Milwaukee Bucks;131;45;26;4;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Malik Beasley
+1038485;24;Phoenix Suns;117;52;32;7;Kevin Durant;Jusuf Nurkic;Bradley Beal;Kevin Durant
+1038550;17;Milwaukee Bucks;114;37;29;4;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Brook Lopez
+1037812;14;Los Angeles Lakers;101;51;26;2;LeBron James;Anthony Davis;LeBron James;Anthony Davis
+1038108;14;Los Angeles Lakers;132;39;34;4;Anthony Davis;Anthony Davis;LeBron James;Anthony Davis
+1038330;17;Milwaukee Bucks;105;35;35;3;A.J. Green;Bobby Portis;Pat Connaughton;Brook Lopez
+1037735;14;Los Angeles Lakers;116;41;27;4;Anthony Davis;Anthony Davis;D'Angelo Russell;Anthony Davis
+1038072;1;Atlanta Hawks;116;39;21;3;Dejounte Murray;Jalen Johnson;Trae Young;Clint Capela
+1037928;1;Atlanta Hawks;119;34;21;4;Trae Young;Bruno Fernando;Trae Young;Bruno Fernando
+1038259;17;Milwaukee Bucks;107;40;24;7;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Brook Lopez
+1038216;17;Milwaukee Bucks;126;46;24;3;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo
+1037922;1;Atlanta Hawks;125;55;34;4;Trae Young;Clint Capela;Trae Young;Clint Capela
+1038568;17;Milwaukee Bucks;140;35;35;2;Damian Lillard;Bobby Portis;Damian Lillard;Pat Connaughton
+1037608;24;Phoenix Suns;95;49;16;3;Kevin Durant;Kevin Durant;Grayson Allen;Kevin Durant
+8258317;14;Los Angeles Lakers;123;55;25;10;Anthony Davis;Anthony Davis;D'Angelo Russell;Anthony Davis
+1038637;14;Los Angeles Lakers;128;69;30;8;Anthony Davis;Anthony Davis;D'Angelo Russell;Anthony Davis
+15882408;14;Los Angeles Lakers;105;38;23;2;Anthony Davis;Anthony Davis;LeBron James;LeBron James
+1038396;1;Atlanta Hawks;121;54;27;4;Dejounte Murray;Jalen Johnson;Dejounte Murray;Jalen Johnson
+1037801;1;Atlanta Hawks;147;58;24;8;Trae Young;Clint Capela;Trae Young;Clint Capela
+1038643;1;Atlanta Hawks;120;41;23;9;Dejounte Murray;Clint Capela;Dejounte Murray;Clint Capela
+1037993;17;Milwaukee Bucks;122;44;26;4;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Giannis Antetokounmpo
+1038081;24;Phoenix Suns;113;44;30;5;Grayson Allen;Jusuf Nurkic;Devin Booker;Grayson Allen
+1038242;14;Los Angeles Lakers;145;55;33;5;LeBron James;LeBron James;LeBron James;Anthony Davis
+1038303;17;Milwaukee Bucks;108;32;27;3;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard
+1038196;24;Phoenix Suns;117;44;25;5;Kevin Durant;Jusuf Nurkic;Devin Booker;Kevin Durant
+1038683;1;Atlanta Hawks;113;45;29;5;Bogdan Bogdanovic;Clint Capela;Bogdan Bogdanovic;Bogdan Bogdanovic
+3277447;1;Atlanta Hawks;116;39;24;4;Trae Young;Clint Capela;Trae Young;Jalen Johnson
+1037825;1;Atlanta Hawks;136;49;29;2;Trae Young;Clint Capela;Dejounte Murray;Jalen Johnson
+1037878;17;Milwaukee Bucks;132;44;33;5;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Brook Lopez
+1038091;1;Atlanta Hawks;110;50;21;10;Trae Young;Clint Capela;Trae Young;Onyeka Okongwu
+1038409;17;Milwaukee Bucks;119;47;32;10;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Brook Lopez
+1038670;14;Los Angeles Lakers;116;50;24;6;LeBron James;Anthony Davis;Austin Reaves;Anthony Davis
+1037639;17;Milwaukee Bucks;122;43;24;5;Giannis Antetokounmpo;Bobby Portis;Khris Middleton;Giannis Antetokounmpo
+1037953;17;Milwaukee Bucks;132;47;34;7;Damian Lillard;Giannis Antetokounmpo;Giannis Antetokounmpo;Brook Lopez
+1037939;24;Phoenix Suns;112;54;29;6;Kevin Durant;Jusuf Nurkic;Devin Booker;Grayson Allen
+1037980;17;Milwaukee Bucks;130;53;25;2;Giannis Antetokounmpo;Bobby Portis;Giannis Antetokounmpo;Giannis Antetokounmpo
+1038097;14;Los Angeles Lakers;106;40;23;6;LeBron James;Anthony Davis;LeBron James;Max Christie
+1038382;17;Milwaukee Bucks;110;44;24;5;Giannis Antetokounmpo;Brook Lopez;Giannis Antetokounmpo;Brook Lopez
+1037997;24;Phoenix Suns;114;47;28;2;Grayson Allen;Chimezie Metu;Devin Booker;Devin Booker
+1038624;14;Los Angeles Lakers;150;41;28;7;Anthony Davis;Anthony Davis;LeBron James;Spencer Dinwiddie
+15881955;14;Los Angeles Lakers;110;41;24;7;LeBron James;Anthony Davis;LeBron James;Anthony Davis
+1038432;17;Milwaukee Bucks;123;51;29;3;Giannis Antetokounmpo;Damian Lillard;Damian Lillard;Brook Lopez
+1038505;1;Atlanta Hawks;99;47;21;5;Dejounte Murray;Clint Capela;Dejounte Murray;Bogdan Bogdanovic
+1038780;1;Atlanta Hawks;115;32;25;5;Dejounte Murray;Mouhamed Gueye;Trae Young;Mouhamed Gueye
+1037595;1;Atlanta Hawks;110;42;24;1;Trae Young;Clint Capela;Trae Young;Jalen Johnson
+1038547;24;Phoenix Suns;112;51;27;3;Devin Booker;Jusuf Nurkic;Bradley Beal;Bradley Beal
+7996365;24;Phoenix Suns;106;40;26;5;Devin Booker;Jusuf Nurkic;Devin Booker;Chimezie Metu
+1037951;14;Los Angeles Lakers;109;41;29;3;Anthony Davis;Anthony Davis;LeBron James;Anthony Davis
+1038699;17;Milwaukee Bucks;101;44;26;10;Brook Lopez;Brook Lopez;Giannis Antetokounmpo;Giannis Antetokounmpo
+1038787;14;Los Angeles Lakers;124;40;32;4;Anthony Davis;Anthony Davis;LeBron James;Colin Castleton
+1037738;17;Milwaukee Bucks;118;53;23;5;Giannis Antetokounmpo;Giannis Antetokounmpo;Pat Connaughton;Brook Lopez
+1038059;1;Atlanta Hawks;141;49;30;5;Jalen Johnson;Clint Capela;Trae Young;Clint Capela
+15882414;17;Milwaukee Bucks;113;42;26;4;Brook Lopez;Khris Middleton;Andre Jackson Jr.;Thanasis Antetokounmpo
+1038461;14;Los Angeles Lakers;114;31;33;4;LeBron James;Anthony Davis;Austin Reaves;Anthony Davis
+1038545;1;Atlanta Hawks;102;38;19;6;Dejounte Murray;Clint Capela;Bogdan Bogdanovic;Bogdan Bogdanovic
+1038269;24;Phoenix Suns;136;42;35;6;Kevin Durant;Jusuf Nurkic;Devin Booker;Kevin Durant
+1038493;14;Los Angeles Lakers;120;34;25;5;LeBron James;Anthony Davis;LeBron James;Taurean Prince
+1038231;17;Milwaukee Bucks;100;49;21;4;Giannis Antetokounmpo;Brook Lopez;Giannis Antetokounmpo;Brook Lopez
+1038472;17;Milwaukee Bucks;113;46;20;3;Damian Lillard;Bobby Portis;Damian Lillard;Brook Lopez
+1038722;1;Atlanta Hawks;110;38;30;2;Clint Capela;Clint Capela;Dejounte Murray;Bogdan Bogdanovic
+1037850;14;Los Angeles Lakers;133;49;27;10;D'Angelo Russell;Anthony Davis;D'Angelo Russell;Anthony Davis
+1038204;24;Phoenix Suns;115;39;32;5;Kevin Durant;Drew Eubanks;Kevin Durant;Kevin Durant
+1038735;14;Los Angeles Lakers;117;41;27;2;Rui Hachimura;Jaxson Hayes;D'Angelo Russell;Jaxson Hayes
+15882410;24;Phoenix Suns;109;28;24;3;Bradley Beal;Jusuf Nurkic;Devin Booker;Jusuf Nurkic
+1037673;14;Los Angeles Lakers;101;40;17;10;Anthony Davis;Anthony Davis;LeBron James;Anthony Davis
+1037710;17;Milwaukee Bucks;124;41;23;5;Giannis Antetokounmpo;Giannis Antetokounmpo;Cameron Payne;Brook Lopez
+3277482;24;Phoenix Suns;120;38;26;8;Kevin Durant;Jusuf Nurkic;Kevin Durant;Jusuf Nurkic
+1038476;14;Los Angeles Lakers;116;55;29;7;D'Angelo Russell;Anthony Davis;LeBron James;Anthony Davis
+1037829;17;Milwaukee Bucks;108;52;19;11;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Brook Lopez
+1038599;17;Milwaukee Bucks;115;40;27;4;Damian Lillard;Giannis Antetokounmpo;Damian Lillard;Giannis Antetokounmpo
+1038582;1;Atlanta Hawks;105;42;32;5;Jalen Johnson;Clint Capela;Dejounte Murray;Clint Capela
+1038651;24;Phoenix Suns;104;51;29;7;Kevin Durant;Kevin Durant;Devin Booker;Kevin Durant
+1038446;24;Phoenix Suns;110;51;20;6;Devin Booker;Jusuf Nurkic;Royce O'Neale;Jusuf Nurkic
+1037649;1;Atlanta Hawks;130;57;26;3;Dejounte Murray;Clint Capela;Trae Young;Bogdan Bogdanovic
+1037711;1;Atlanta Hawks;120;37;22;7;Trae Young;Clint Capela;Trae Young;Onyeka Okongwu
+1037926;17;Milwaukee Bucks;146;49;24;8;Damian Lillard;Bobby Portis;Giannis Antetokounmpo;Brook Lopez
+1038369;1;Atlanta Hawks;99;45;23;6;De'Andre Hunter;Bruno Fernando;Trae Young;Jalen Johnson
+15882405;24;Phoenix Suns;93;41;19;1;Devin Booker;Jusuf Nurkic;Bradley Beal;Kevin Durant
+1037648;17;Milwaukee Bucks;111;29;19;2;Malik Beasley;Bobby Portis;Damian Lillard;Jae Crowder
+1037923;14;Los Angeles Lakers;115;43;32;5;LeBron James;Christian Wood;LeBron James;Christian Wood
+1037830;1;Atlanta Hawks;103;43;15;4;Trae Young;Saddiq Bey;Trae Young;Clint Capela
+3277426;1;Atlanta Hawks;126;41;27;7;Dejounte Murray;Onyeka Okongwu;Dejounte Murray;Clint Capela
+1038180;24;Phoenix Suns;123;48;32;3;Devin Booker;Jusuf Nurkic;Jusuf Nurkic;Kevin Durant
+1037704;17;Milwaukee Bucks;120;36;19;7;Damian Lillard;Giannis Antetokounmpo;Giannis Antetokounmpo;Brook Lopez
+1037898;14;Los Angeles Lakers;125;40;34;4;Anthony Davis;Anthony Davis;LeBron James;Anthony Davis
+1038261;14;Los Angeles Lakers;122;37;28;3;Austin Reaves;LeBron James;LeBron James;Max Christie
+1038332;14;Los Angeles Lakers;106;39;27;10;Anthony Davis;Anthony Davis;Austin Reaves;Anthony Davis
+1038379;24;Phoenix Suns;111;50;28;10;Kevin Durant;Jusuf Nurkic;Jusuf Nurkic;Bol Bol
+1038507;17;Milwaukee Bucks;122;43;28;2;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo
+3277504;17;Milwaukee Bucks;131;50;28;6;Brook Lopez;Malik Beasley;Damian Lillard;Brook Lopez
+1038146;24;Phoenix Suns;127;41;27;5;Devin Booker;Jusuf Nurkic;Devin Booker;Grayson Allen
+1038305;14;Los Angeles Lakers;124;48;36;6;D'Angelo Russell;Anthony Davis;Anthony Davis;Anthony Davis
+1038491;17;Milwaukee Bucks;90;34;19;5;Giannis Antetokounmpo;Giannis Antetokounmpo;Giannis Antetokounmpo;Patrick Beverley
+1038770;1;Atlanta Hawks;106;40;23;1;Trae Young;Clint Capela;Trae Young;Clint Capela
+1038769;14;Los Angeles Lakers;123;39;25;6;LeBron James;Anthony Davis;D'Angelo Russell;Anthony Davis
+7981414;17;Milwaukee Bucks;119;46;19;9;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Brook Lopez
+1037925;24;Phoenix Suns;122;33;30;3;Kevin Durant;Jusuf Nurkic;Devin Booker;Drew Eubanks
+15882415;24;Phoenix Suns;116;33;20;7;Devin Booker;Kevin Durant;Devin Booker;Kevin Durant
+1038069;17;Milwaukee Bucks;125;42;27;5;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Brook Lopez
+1038113;1;Atlanta Hawks;139;55;32;8;Trae Young;Jalen Johnson;Trae Young;Bruno Fernando
+1038120;17;Milwaukee Bucks;135;53;34;6;Bobby Portis;Giannis Antetokounmpo;Khris Middleton;Brook Lopez
+1038157;14;Los Angeles Lakers;112;44;31;9;Anthony Davis;Anthony Davis;Austin Reaves;Christian Wood
+1038497;24;Phoenix Suns;120;49;28;6;Kevin Durant;Jusuf Nurkic;Bradley Beal;Jusuf Nurkic
+1038151;1;Atlanta Hawks;109;56;24;6;Trae Young;Dejounte Murray;Trae Young;Clint Capela
+1038653;17;Milwaukee Bucks;100;46;21;4;Giannis Antetokounmpo;Giannis Antetokounmpo;Damian Lillard;Brook Lopez
+1038331;24;Phoenix Suns;129;37;37;7;Kevin Durant;Kevin Durant;Grayson Allen;Bol Bol
