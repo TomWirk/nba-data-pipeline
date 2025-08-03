@@ -7,8 +7,7 @@ import org.apache.spark.sql.expressions.Window
 import java.nio.file.{FileSystems, Files, Paths, StandardCopyOption}
 import scala.collection.JavaConverters._
 
-val inputPath = "s3a://nba-data-pipeline/input/"
-val outputPath = "s3a://nba-data-pipeline/output/"
+val S3Path = "s3a://nba-data-pipeline/"
 
 object Transform {
 
@@ -33,7 +32,7 @@ val schema_games = StructType(Array(
     val df_teams = spark.read
     			.option("header", "true")
     			.schema(schema_games)
-    			.json(inputPath+"games/games_data.json")
+    			.json(S3Path+"games/games_data.json")
     			.withColumn("game_id",col("id").cast(IntegerType))
     			.withColumn("home_team_id",col("home_team.id").cast(IntegerType))
     			.withColumn("home_team_name",col("home_team.full_name").cast(StringType))
@@ -90,7 +89,7 @@ val schema_games = StructType(Array(
     val df_stats = spark.read
     			.option("header", "true")
     			.schema(schema_stats)
-    			.json(inputPath+"stats/stats_data.json")
+    			.json(S3Path+"stats/stats_data.json")
     			.withColumn("stat_id",col("id").cast(IntegerType))
     			.withColumn("game_id",col("game.id").cast(IntegerType))
     			.withColumn("team_id",col("team.id").cast(IntegerType))
@@ -183,13 +182,13 @@ val schema_games = StructType(Array(
     //df_merge.write.option("header", "true").csv("csv/final.csv")
     df_merge.coalesce(1).write.format("com.databricks.spark.csv").option("header", "true").option("delimiter",";").mode("overwrite").csv("csv")
     
-    Files.deleteIfExists(Paths.get(outputPath +"csv/_SUCCESS"))
-    Files.deleteIfExists(Paths.get(outputPath +"csv/._SUCCESS.crc"))
+    Files.deleteIfExists(Paths.get("csv/_SUCCESS"))
+    Files.deleteIfExists(Paths.get("csv/._SUCCESS.crc"))
     
-    val dir = FileSystems.getDefault.getPath(outputPath +"csv")
+    val dir = FileSystems.getDefault.getPath("csv")
     val temp_name = Files.list(dir).iterator().asScala.toList(0).toString.replace(".csv.crc",".csv").replace("csv/.","csv/").replace("csv/","")
     
-    Files.move(Paths.get(outputPath +"csv/"+temp_name), Paths.get("csv/final.csv"), StandardCopyOption.REPLACE_EXISTING)
+    Files.move(Paths.get("csv/"+temp_name), Paths.get(S3Path +"csv/final.csv"), StandardCopyOption.REPLACE_EXISTING)
     
     /*
     val test = spark.read
