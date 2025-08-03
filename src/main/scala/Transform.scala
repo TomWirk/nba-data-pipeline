@@ -7,9 +7,9 @@ import org.apache.spark.sql.expressions.Window
 import java.nio.file.{FileSystems, Files, Paths, StandardCopyOption}
 import scala.collection.JavaConverters._
 
-val S3Path = "s3a://nba-data-pipeline/"
-
 object Transform {
+
+val S3Path = "s3a://nba-data-pipeline/"
 
 val spark = SparkSession.builder()
       .appName("NBA")
