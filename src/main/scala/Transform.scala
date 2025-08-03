@@ -180,15 +180,15 @@ val schema_games = StructType(Array(
     //df_merge.printSchema()
     
     //df_merge.write.option("header", "true").csv("csv/final.csv")
-    df_merge.coalesce(1).write.format("com.databricks.spark.csv").option("header", "true").option("delimiter",";").mode("overwrite").csv("csv")
+    df_merge.coalesce(1)
+	  .write.format("com.databricks.spark.csv")
+	  .option("header", "true")
+	  .option("delimiter",";")
+	  .mode("overwrite")
+	  .csv(S3Path+"csv/final")
     
     Files.deleteIfExists(Paths.get("csv/_SUCCESS"))
     Files.deleteIfExists(Paths.get("csv/._SUCCESS.crc"))
-    
-    val dir = FileSystems.getDefault.getPath("csv")
-    val temp_name = Files.list(dir).iterator().asScala.toList(0).toString.replace(".csv.crc",".csv").replace("csv/.","csv/").replace("csv/","")
-    
-    Files.move(Paths.get("csv/"+temp_name), Paths.get(S3Path +"csv/final.csv"), StandardCopyOption.REPLACE_EXISTING)
     
     /*
     val test = spark.read
