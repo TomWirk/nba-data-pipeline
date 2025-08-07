@@ -178,13 +178,25 @@ val schema_games = StructType(Array(
     //df_merge.printSchema()
     
     //df_merge.write.option("header", "true").csv("csv/final.csv")
-	val outputPath = "s3a://nba-data-pipeline/output/final/"
-	df_merge.coalesce(1)
-	      .write.format("csv")
-	      .option("header", "true")
-	      .option("delimiter", ";")
-	      .mode("overwrite")
-	      .save(outputPath)
+	val outputPath = "s3a://nba-data-pipeline/output/final.csv"
+	val tmpPath = "s3a://nba-data-pipeline/tmp_output_csv"
+	
+	df_merge
+	  .coalesce(1)
+	  .write
+	  .option("header", "true")
+	  .option("delimiter", ";")
+	  .mode("overwrite")
+	  .csv(tmpPath)
+	
+	// Ensuite : renommer le fichier .csv généré dans le répertoire tmp → vers output/final.csv
+	import org.apache.hadoop.fs.{FileSystem, Path}
+	val fs = FileSystem.get(spark.sparkContext.hadoopConfiguration)
+	
+	val file = fs.globStatus(new Path(tmpPath + "/part-*.csv"))(0).getPath()
+	fs.rename(file, new Path(outputPath))
+	fs.delete(new Path(tmpPath), true)
+
     
     /*
     val test = spark.read
