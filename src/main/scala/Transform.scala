@@ -178,12 +178,13 @@ val schema_games = StructType(Array(
     //df_merge.printSchema()
     
     //df_merge.write.option("header", "true").csv("csv/final.csv")
-    df_merge.coalesce(1)
-	  .write.format("com.databricks.spark.csv")
+	df_merge.coalesce(1)
+	  .write
+	  .format("csv") // <= natif Spark
 	  .option("header", "true")
-	  .option("delimiter",";")
+	  .option("delimiter", ";")
 	  .mode("overwrite")
-	  .csv(S3Path+"csv")
+	  .save(S3Path + "csv/cleaned_data") // <= chemin explicite
     
     /*
     val test = spark.read
