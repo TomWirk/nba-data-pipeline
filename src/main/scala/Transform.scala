@@ -178,7 +178,6 @@ val schema_games = StructType(Array(
     //df_merge.printSchema()
 	    
 	    //df_merge.write.option("header", "true").csv("csv/final.csv")
-	val localPath = "file:///home/hadoop/output_csv"
 	
 	df_merge
 	  .coalesce(1)
@@ -186,7 +185,7 @@ val schema_games = StructType(Array(
 	  .option("header", "true")
 	  .option("delimiter", ";")
 	  .mode("overwrite")
-	  .csv(localPath)
+	  .csv("csv")
     
     /*
     val test = spark.read
