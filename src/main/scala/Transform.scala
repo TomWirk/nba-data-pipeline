@@ -4,8 +4,6 @@ import org.apache.spark.sql.types.{IntegerType,StringType,StructType,StructField
 import org.apache.spark.sql.functions.col
 import org.apache.spark.sql.functions._
 import org.apache.spark.sql.expressions.Window
-import java.nio.file.{FileSystems, Files, Paths, StandardCopyOption}
-import scala.collection.JavaConverters._
 
 object Transform {
 
@@ -185,10 +183,7 @@ val schema_games = StructType(Array(
 	  .option("header", "true")
 	  .option("delimiter",";")
 	  .mode("overwrite")
-	  .csv(S3Path+"csv/final")
-    
-    Files.deleteIfExists(Paths.get("csv/_SUCCESS"))
-    Files.deleteIfExists(Paths.get("csv/._SUCCESS.crc"))
+	  .csv(S3Path+"csv")
     
     /*
     val test = spark.read
