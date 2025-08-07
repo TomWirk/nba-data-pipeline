@@ -179,13 +179,13 @@ val schema_games = StructType(Array(
 	    
 	    //df_merge.write.option("header", "true").csv("csv/final.csv")
 	
-	val S3output = "s3a://nba-data-pipeline/output_nba/" + java.util.UUID.randomUUID.toString
+	val LocalPath = "file:///home/ec2-user/output_nba"
 	df_merge.coalesce(1)
 	  .write.format("com.databricks.spark.csv")
 	  .option("header", "true")
 	  .option("delimiter", ";")
 	  .mode("overwrite")
-	  .csv(S3output)
+	  .csv(LocalPath)
     
     /*
     val test = spark.read
