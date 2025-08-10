@@ -147,7 +147,7 @@ object Transform {
       .mode("overwrite")
       .option("header", "true")
       .option("delimiter", ";")
-      .csv(S3Path+"silver/sample")
+      .csv(S3Path+"silver/sample/")
 
     spark.stop()
   }
