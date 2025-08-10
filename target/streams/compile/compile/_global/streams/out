@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/ec2-user/nba-data-pipeline/src/main/scala/Transform.scala:10:1: expected class or object definition[0m
-[0m[[0m[31merror[0m] [0m[0mval S3Path = "s3a://nba-data-pipeline/"[0m
-[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ec2-user/nba-data-pipeline/src/main/scala/Transform.scala:151:12: not found: value S3path[0m
+[0m[[0m[31merror[0m] [0m[0m      .csv(S3path+"silver/sample")[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
