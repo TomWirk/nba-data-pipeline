@@ -4,7 +4,7 @@
 JAR_PATH="s3a://nba-data-pipeline/jars/nba_2.12-1.0.jar"
 CLASS_NAME="Transform"
 LOCAL_OUTPUT_DIR="/home/ec2-user/output_nba"
-S3_OUTPUT_DIR="s3://nba-data-pipeline/output-nba/"
+S3_OUTPUT_DIR="s3://nba-data-pipeline/silver/"
 FINAL_NAME="nba_output.csv"
 
 # Nettoyage local

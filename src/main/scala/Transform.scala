@@ -30,7 +30,7 @@ val schema_games = StructType(Array(
     val df_teams = spark.read
     			.option("header", "true")
     			.schema(schema_games)
-    			.json(S3Path+"games/games_data.json")
+    			.json(S3Path+"bronze/sample/games_data.json")
     			.withColumn("game_id",col("id").cast(IntegerType))
     			.withColumn("home_team_id",col("home_team.id").cast(IntegerType))
     			.withColumn("home_team_name",col("home_team.full_name").cast(StringType))
@@ -87,7 +87,7 @@ val schema_games = StructType(Array(
     val df_stats = spark.read
     			.option("header", "true")
     			.schema(schema_stats)
-    			.json(S3Path+"stats/stats_data.json")
+    			.json(S3Path+"bronze/sample/stats_data.json")
     			.withColumn("stat_id",col("id").cast(IntegerType))
     			.withColumn("game_id",col("game.id").cast(IntegerType))
     			.withColumn("team_id",col("team.id").cast(IntegerType))
